@@ -7,15 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "\"filename",
-    "conversion\"",
+    "filename conversion",
     "filename-cc",
     "Chinese",
-    "\"Simplified",
-    "Chinese\"",
-    "\"Traditonal",
-    "Chinese\""
+    "Simplified Chinese",
+    "Traditonal Chinese"
   ],
   "author": "caesarhu",
+  "repository": "https://github.com/caesarhu/filename-cc.git",
   "license": "BSD-2-Clause"
 }
