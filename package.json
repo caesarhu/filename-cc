@@ -1,0 +1,21 @@
+{
+  "name": "filename-cc",
+  "version": "0.1.0",
+  "description": "將檔名由簡體中文轉換成繁體中文，或是由繁體中文轉換成簡體中文，預設中文編碼均為UTF8。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"filename",
+    "conversion\"",
+    "filename-cc",
+    "Chinese",
+    "\"Simplified",
+    "Chinese\"",
+    "\"Traditonal",
+    "Chinese\""
+  ],
+  "author": "caesarhu",
+  "license": "BSD-2-Clause"
+}
