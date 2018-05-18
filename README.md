@@ -9,7 +9,7 @@ filename-cc /where/path
 
 filename-cc /where/path t2s  
 
-將/where/path目錄下的所有子目錄及檔案變更為簡體。  
+將/where/path目錄下的所有子目錄及檔案名稱變更為簡體。  
 
 s2t為簡體轉為繁體  
 
