@@ -1,3 +1,3 @@
-const lib = require('./lib/filename-cc');
+const filename_cc = require('./lib/filename-cc');
 
-lib.shell_cmd();
+filename_cc.shell_cmd();
