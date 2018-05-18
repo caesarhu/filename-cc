@@ -15,7 +15,10 @@
     "Traditonal Chinese"
   ],
   "author": "caesarhu",
-  "repository": "https://github.com/caesarhu/filename-cc.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caesarhu/filename-cc.git"
+  },
   "license": "BSD-2-Clause",
   "dependencies": {
     "klaw": "^2.1.1",
